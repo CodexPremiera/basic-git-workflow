@@ -7,3 +7,8 @@ console.log();
 
 /* ==================== FIRST EDITION ==================== */
 // S3: Push the file to the remote repository
+
+/* ==================== SECOND EDITION ==================== */
+// S4: Make new a branch to add new changes without changing main
+console.log("Add a new branch from the main branch");
+console.log();
