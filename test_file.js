@@ -7,3 +7,8 @@ console.log();
 
 /* ==================== FIRST EDITION ==================== */
 // S3: Push the file to the remote repository
+
+/* ==================== REVERTED EDITION ==================== */
+// S4: Revert changes/commits if to return to previous version
+console.log("This part wil be reverted!");
+console.log();
