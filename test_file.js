@@ -12,8 +12,3 @@ console.log();
 // S4: Revert changes/commits if to return to previous version
 console.log("This part wil be reverted!");
 console.log();
-
-/* ==================== REVERTED EDITION ==================== */
-// S4: Revert changes/commits if to return to previous version
-console.log("This part wil be reverted!");
-console.log();
