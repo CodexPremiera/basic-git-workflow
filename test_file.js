@@ -12,3 +12,8 @@ console.log();
 // S4: Make new a branch to add new changes without changing main
 console.log("Add a new branch from the main branch");
 console.log();
+
+/* ==================== THIRD EDITION ==================== */
+// S5: Pull the pull request from the remote repository
+console.log("Merge the other branch to main");
+console.log();
